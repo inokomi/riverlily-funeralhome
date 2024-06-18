@@ -1,0 +1,30 @@
+C:\Users\Kate\Documents\Funeral_Home_Database\FuneralHome\FuneralHome\obj\Debug\FuneralHome.csprojAssemblyReference.cache
+C:\Users\Kate\Documents\Funeral_Home_Database\FuneralHome\FuneralHome\obj\Debug\FuneralHome.DecedentMasterlist.resources
+C:\Users\Kate\Documents\Funeral_Home_Database\FuneralHome\FuneralHome\obj\Debug\FuneralHome.DeleteForm.resources
+C:\Users\Kate\Documents\Funeral_Home_Database\FuneralHome\FuneralHome\obj\Debug\FuneralHome.EditForm.resources
+C:\Users\Kate\Documents\Funeral_Home_Database\FuneralHome\FuneralHome\obj\Debug\FuneralHome.Form1.resources
+C:\Users\Kate\Documents\Funeral_Home_Database\FuneralHome\FuneralHome\obj\Debug\FuneralHome.NewDecedent.resources
+C:\Users\Kate\Documents\Funeral_Home_Database\FuneralHome\FuneralHome\obj\Debug\FuneralHome.Properties.Resources.resources
+C:\Users\Kate\Documents\Funeral_Home_Database\FuneralHome\FuneralHome\obj\Debug\FuneralHome.Splash.resources
+C:\Users\Kate\Documents\Funeral_Home_Database\FuneralHome\FuneralHome\obj\Debug\FuneralHome.csproj.GenerateResource.cache
+C:\Users\Kate\Documents\Funeral_Home_Database\FuneralHome\FuneralHome\obj\Debug\FuneralHome.csproj.CoreCompileInputs.cache
+C:\Users\Kate\Documents\Funeral_Home_Database\FuneralHome\FuneralHome\bin\Debug\FuneralHome.exe.config
+C:\Users\Kate\Documents\Funeral_Home_Database\FuneralHome\FuneralHome\bin\Debug\FuneralHome.exe
+C:\Users\Kate\Documents\Funeral_Home_Database\FuneralHome\FuneralHome\bin\Debug\FuneralHome.pdb
+C:\Users\Kate\Documents\Funeral_Home_Database\FuneralHome\FuneralHome\obj\Debug\FuneralHome.exe
+C:\Users\Kate\Documents\Funeral_Home_Database\FuneralHome\FuneralHome\obj\Debug\FuneralHome.pdb
+C:\Users\Kath\Documents\SHS\Data Structures\Funeral_Home_Database\FuneralHome\FuneralHome\bin\Debug\FuneralHome.exe.config
+C:\Users\Kath\Documents\SHS\Data Structures\Funeral_Home_Database\FuneralHome\FuneralHome\bin\Debug\FuneralHome.exe
+C:\Users\Kath\Documents\SHS\Data Structures\Funeral_Home_Database\FuneralHome\FuneralHome\bin\Debug\FuneralHome.pdb
+C:\Users\Kath\Documents\SHS\Data Structures\Funeral_Home_Database\FuneralHome\FuneralHome\obj\Debug\FuneralHome.csproj.AssemblyReference.cache
+C:\Users\Kath\Documents\SHS\Data Structures\Funeral_Home_Database\FuneralHome\FuneralHome\obj\Debug\FuneralHome.DecedentMasterlist.resources
+C:\Users\Kath\Documents\SHS\Data Structures\Funeral_Home_Database\FuneralHome\FuneralHome\obj\Debug\FuneralHome.DeleteForm.resources
+C:\Users\Kath\Documents\SHS\Data Structures\Funeral_Home_Database\FuneralHome\FuneralHome\obj\Debug\FuneralHome.EditForm.resources
+C:\Users\Kath\Documents\SHS\Data Structures\Funeral_Home_Database\FuneralHome\FuneralHome\obj\Debug\FuneralHome.Form1.resources
+C:\Users\Kath\Documents\SHS\Data Structures\Funeral_Home_Database\FuneralHome\FuneralHome\obj\Debug\FuneralHome.NewDecedent.resources
+C:\Users\Kath\Documents\SHS\Data Structures\Funeral_Home_Database\FuneralHome\FuneralHome\obj\Debug\FuneralHome.Properties.Resources.resources
+C:\Users\Kath\Documents\SHS\Data Structures\Funeral_Home_Database\FuneralHome\FuneralHome\obj\Debug\FuneralHome.Splash.resources
+C:\Users\Kath\Documents\SHS\Data Structures\Funeral_Home_Database\FuneralHome\FuneralHome\obj\Debug\FuneralHome.csproj.GenerateResource.cache
+C:\Users\Kath\Documents\SHS\Data Structures\Funeral_Home_Database\FuneralHome\FuneralHome\obj\Debug\FuneralHome.csproj.CoreCompileInputs.cache
+C:\Users\Kath\Documents\SHS\Data Structures\Funeral_Home_Database\FuneralHome\FuneralHome\obj\Debug\FuneralHome.exe
+C:\Users\Kath\Documents\SHS\Data Structures\Funeral_Home_Database\FuneralHome\FuneralHome\obj\Debug\FuneralHome.pdb
